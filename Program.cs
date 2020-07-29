@@ -13,8 +13,6 @@ namespace WebApplication1
     public class Program
     {
         //test main
-        //test
-        //test2
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
